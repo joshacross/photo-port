@@ -3,7 +3,7 @@ import Modal from '../../Modal';
 
 const PhotoList = ({ category }) => {
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [currentPhoto, setCurrentPhoto] = useState({category});
+  const [currentPhoto, setCurrentPhoto] = useState();
 
   const [photos] = useState([
     {
