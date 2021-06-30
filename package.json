@@ -10,7 +10,7 @@
     "react-scripts": "4.0.3",
     "typescript": "^4.3.4",
     "web-vitals": "^1.1.2",
-    "hompage": "http://joshacross.github.io/photo-port"
+    "homepage": "http://joshacross.github.io/photo-port"
   },
   "scripts": {
     "start": "react-scripts start",
